@@ -1,3 +1,11 @@
+/bin/
+/target/
+/.settings/
+*.classpath
+*.factorypath
+*.project
+
+
 # Compiled class file
 *.class
 
